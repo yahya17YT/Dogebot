@@ -27,7 +27,7 @@ global.pemilik = ['6285784715971'] //another owner number
 global.premium = ['6285784715971'] //premium number
 global.pengguna = 'yahya' //username
 global.botnma = 'Yahya17Botz' //bot name
-global.ownernma = 'Reza Temayang' //owner name
+global.ownernma = 'Yahya' //owner name
 global.packname = 'Yahya17Botz' //sticker package name
 global.author = 'Yahya17Botz' //sticker author name
 global.sessionName = 'session' //session name
@@ -46,7 +46,9 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 100 //free user limit
+    free: 30
+
+ //free user limit
 }
 global.thumb = fs.readFileSync('./XeonMedia/cheemspic.jpg')
 
