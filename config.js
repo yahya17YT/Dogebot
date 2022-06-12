@@ -46,7 +46,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity", //premium user limit
-    free: 30
+    free: 100
 
  //free user limit
 }
