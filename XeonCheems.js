@@ -1210,12 +1210,12 @@ case 'antilink':
                     let btn = [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Owner Number👤',
-                                    phoneNumber: '+91 690-9137-213'
+                                    phoneNumber: '6285784715974'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1250,7 +1250,7 @@ case 'antilink':
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script🔖',
-                                    url: 'https://github.com/DGXeon/CheemsBot-MD'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2171,7 +2171,7 @@ View list of message with ${prefix}listmsg`)
 				let buttons = [{
                                 urlButton: {
                                     displayText: 'Report Bug🐛',
-                                    url: 'https://wa.me/916909137213?text=hello+bro+i+found+a+bug+in+your+bot'
+                                    url: 'https://wa.me/6285784715971?text=hello+bro+i+found+a+bug+in+your+bot'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2454,12 +2454,12 @@ Please Select Button Below
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                             	urlButton: {
                                 displayText: 'Script',
-                                    url: 'https://github.com/reza838'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2624,7 +2624,7 @@ case 'grupmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2666,7 +2666,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2703,7 +2703,7 @@ case 'downloadmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2734,7 +2734,7 @@ case 'randommenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2766,7 +2766,7 @@ case 'funmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2806,7 +2806,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2840,7 +2840,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2898,7 +2898,7 @@ case 'horoscopemenukcodk': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2936,7 +2936,7 @@ case 'convertmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2976,7 +2976,7 @@ case 'nocategorymenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3013,7 +3013,7 @@ case 'databasemenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3045,7 +3045,7 @@ case 'anonymouschatmenu': {
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3077,7 +3077,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3114,7 +3114,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube📍',
-                                    url: 'https://youtu.be/imFIX-Wrt3s'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3255,7 +3255,7 @@ break
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'YouTube',
-                                    url: 'https://youtu.be/_HmhBUN7B-4'
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3271,10 +3271,7 @@ break
 break
 case 'tqtt': 
 reply(`Thanks to
-MINYO
-REZA
-CEJO
-And all friends who helped assemble this sexy script !!!`)
+YAHYA17 CH
 break
             default:
                 if (budy.startsWith('=>')) {
